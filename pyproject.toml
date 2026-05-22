@@ -1,0 +1,11 @@
+[project]
+name = "dvc-marimo-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dvc>=3.67.1",
+    "marimo>=0.23.7",
+    "pandas>=3.0.3",
+]
